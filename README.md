@@ -1,17 +1,20 @@
-# Exercise-04d-Coins
+# Generic Platformer
+10/24/25
+
+Attack enemies, don't get hit, collect coins, and make it to the end!
 
 ## Implementation
+Multiple levels +1  
+New circular moving enemy +1  
+Player can attack enemies +1  
+Player can take damage and die +1  
+Animations for player attacking and dying +1
 
 ## References
-
-Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
-https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
-https://github.com/SebLague/2DPlatformer-Tutorial
-
-Pixel Platformer tiles provided by Kenney.nl
-https://kenney.nl/assets/pixel-platformer
+https://www.youtube.com/watch?v=p5pv-k4S-sg followed this tutorial for circular motion
 
 ## Future Development
+N/A
 
 ## Created by
 Kihrun Scott
